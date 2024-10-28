@@ -1,0 +1,11 @@
+#tooltip {
+	position: absolute;
+	z-index: 3000;
+	border: 1px solid #999;
+	background-color: #FFFFDF;
+	padding: 1em;
+	opacity: 0.85;
+	font-size: 0.8em;
+	color: #666;
+}
+#tooltip h3, #tooltip div { margin: 0; }
